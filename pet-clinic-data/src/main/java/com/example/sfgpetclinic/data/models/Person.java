@@ -1,4 +1,4 @@
-package com.example.sfgpetclinic.web.models;
+package com.example.sfgpetclinic.data.models;
 
 public class Person {
 
